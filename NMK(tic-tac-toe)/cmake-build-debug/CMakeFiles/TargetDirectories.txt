@@ -1,0 +1,3 @@
+C:/Users/adams/CLionProjects/MNK DO ODDANIA/cmake-build-debug/CMakeFiles/MNKTEST.dir
+C:/Users/adams/CLionProjects/MNK DO ODDANIA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/adams/CLionProjects/MNK DO ODDANIA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
